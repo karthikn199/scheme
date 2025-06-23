@@ -112,7 +112,7 @@ const Header = () => {
                   isScrolled ? "text-white" : "text-white"
                 }`}
               >
-                Social Welfare Department
+                Social Welfare Dept
               </h1>
               <p
                 className={`text-xs ${
