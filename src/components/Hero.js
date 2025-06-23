@@ -11,7 +11,7 @@ const Hero = () => {
           </div> */}
 
           {/* Main heading */}
-          <h1 className="text-4xl md:text-5xl font-extrabold mb-8 leading-tight">
+          <h1 className="text-4xl md:text-4xl font-extrabold mb-8 leading-tight mt-4">
             <span className="bg-clip-text text-transparent bg-gradient-to-r from-yellow-300 to-amber-300">
               INCENTIVE FOR INTRA-CASTE MARRIAGE
             </span><br />
