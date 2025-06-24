@@ -1,14 +1,17 @@
 // src/components/Footer.js
-import React from 'react';
 
 const Footer = () => {
   return (
     <footer className="bg-gray-900 text-white py-10">
       <div className="container mx-auto px-4">
         <div className="text-center">
-          <p className="mb-4">© 2016 Social Welfare Department, Government of Karnataka.</p>
-          <p className="text-gray-400">Design & Development by NIC, Karnataka</p>
-          
+          <p className="mb-4">
+            © 2016 Social Minority Department, Government of Karnataka.
+          </p>
+          <p className="text-gray-400">
+            Design & Development by NIC, Karnataka
+          </p>
+
           <div className="mt-6 flex justify-center space-x-4">
             <a href="#" className="text-gray-400 hover:text-white">
               Terms of Service

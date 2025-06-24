@@ -112,7 +112,7 @@ const Header = () => {
                   isScrolled ? "text-white" : "text-white"
                 }`}
               >
-                Social Welfare Dept
+                Social Minority Dept
               </h1>
               <p
                 className={`text-xs ${
@@ -259,7 +259,7 @@ const Header = () => {
                 isScrolled ? "text-white" : "text-white"
               }`}
             >
-              Welfare Portal
+              Minority Portal
             </h2>
           </div>
           <button
@@ -269,9 +269,7 @@ const Header = () => {
             }`}
           >
             <HiX
-              className={`h-6 w-6 ${
-                isScrolled ? "text-white" : "text-white"
-              }`}
+              className={`h-6 w-6 ${isScrolled ? "text-white" : "text-white"}`}
             />
           </button>
         </div>

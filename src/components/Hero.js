@@ -14,8 +14,11 @@ const Hero = () => {
           <h1 className="text-4xl md:text-4xl font-extrabold mb-8 leading-tight mt-4">
             <span className="bg-clip-text text-transparent bg-gradient-to-r from-yellow-300 to-amber-300">
               INCENTIVE FOR INTRA-CASTE MARRIAGE
-            </span><br />
-            <span className="text-2xl md:text-3xl">Within Scheduled Caste Community</span>
+            </span>
+            <br />
+            <span className="text-2xl md:text-3xl">
+              Within Scheduled Caste Community
+            </span>
           </h1>
 
           {/* Feature card */}
@@ -26,17 +29,19 @@ const Hero = () => {
               </div>
               <div className="bg-blue-500 h-0.5 flex-grow mt-3"></div>
             </div>
-            
+
             <p className="mb-6 text-blue-100 text-lg">
-              Social Welfare Department, Government of Karnataka provides incentives to Scheduled Caste couples meeting the following criteria:
+              Social Minority Department, Government of Karnataka provides
+              incentives to Scheduled Caste couples meeting the following
+              criteria:
             </p>
-            
+
             <ul className="space-y-3">
               {[
                 "✓ Couple belonging to different sub-castes",
                 "✓ Scheme applicable within one year of marriage",
                 "✓ Family income below ₹2.00 lakhs",
-                "✓ Both spouses must be Karnataka residents"
+                "✓ Both spouses must be Karnataka residents",
               ].map((item, index) => (
                 <li key={index} className="flex items-start">
                   <span className="text-yellow-400 mr-2 text-xl">•</span>

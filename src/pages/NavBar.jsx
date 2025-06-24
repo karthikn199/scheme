@@ -84,7 +84,7 @@ const Navbar = () => {
                 </div>
                 <div>
                   <span className="text-xl font-bold text-white tracking-tight">
-                    SOCIAL WELFARE
+                    SOCIAL Minority
                   </span>
                   <div className="flex items-center">
                     <span className="text-xs font-medium text-gray-400 uppercase tracking-wider">
@@ -184,10 +184,10 @@ const Navbar = () => {
               </div>
               <h1 className="text-4xl md:text-5xl font-bold text-white mb-6 leading-tight">
                 Modern <span className="text-cyan-400">Industrial-Grade</span>{" "}
-                Welfare Solutions
+                Minority Solutions
               </h1>
               <p className="text-xl text-gray-300 mb-10 max-w-2xl">
-                Robust, secure, and efficient management of social welfare
+                Robust, secure, and efficient management of social Minority
                 programs with industrial-grade reliability and precision.
               </p>
 
@@ -273,7 +273,7 @@ const Navbar = () => {
               NATIONAL
             </div>
             <div className="bg-gray-800/50 border border-gray-700 w-32 h-16 rounded-lg flex items-center justify-center text-gray-400 font-bold">
-              WELFARE INC
+              Minority INC
             </div>
           </div>
         </div>
