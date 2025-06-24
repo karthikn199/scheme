@@ -7,7 +7,6 @@ import {
   FaHeadset,
   FaHome,
   FaLightbulb,
-  FaMoneyBillWave,
   FaSearch,
   FaUser,
 } from "react-icons/fa";
@@ -58,16 +57,16 @@ const Header = () => {
         { name: "Track Status", href: "#" },
       ],
     },
-    {
-      name: "Payments",
-      icon: <FaMoneyBillWave className="text-lg" />,
-      href: "#",
-      submenu: [
-        { name: "Make Payment", href: "#" },
-        { name: "Payment History", href: "#" },
-        { name: "Acknowledgement", href: "#" },
-      ],
-    },
+    // {
+    //   name: "Payments",
+    //   icon: <FaMoneyBillWave className="text-lg" />,
+    //   href: "#",
+    //   submenu: [
+    //     { name: "Make Payment", href: "#" },
+    //     { name: "Payment History", href: "#" },
+    //     { name: "Acknowledgement", href: "#" },
+    //   ],
+    // },
     {
       name: "Statistics",
       icon: <FaChartBar className="text-lg" />,
@@ -112,7 +111,7 @@ const Header = () => {
                   isScrolled ? "text-white" : "text-white"
                 }`}
               >
-                Minority Dept
+                Minority Welfare Department
               </h1>
               <p
                 className={`text-xs ${

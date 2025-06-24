@@ -267,7 +267,7 @@ const Navbar = () => {
               GOVT LOGO
             </div>
             <div className="bg-gray-800/50 border border-gray-700 w-32 h-16 rounded-lg flex items-center justify-center text-gray-400 font-bold">
-              STATE DEPT
+              STATE Department
             </div>
             <div className="bg-gray-800/50 border border-gray-700 w-32 h-16 rounded-lg flex items-center justify-center text-gray-400 font-bold">
               NATIONAL

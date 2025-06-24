@@ -25,7 +25,7 @@ const Hero = () => {
           <div className="bg-white/10 backdrop-blur-sm border border-white/20 rounded-2xl p-6 md:p-8 shadow-2xl mb-8 transform transition hover:scale-[1.01]">
             <div className="flex items-start mb-4">
               <div className="bg-yellow-400 text-blue-900 font-bold px-3 py-1 rounded-lg mr-3">
-                WBC CAM APPLY
+                WHO CAN APPLY
               </div>
               <div className="bg-blue-500 h-0.5 flex-grow mt-3"></div>
             </div>
