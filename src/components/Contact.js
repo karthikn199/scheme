@@ -19,7 +19,7 @@ const Contact = () => {
                 <FaMapMarkerAlt className="text-xl mr-4 mt-1" />
                 <div>
                   <h4 className="font-bold">
-                    Commissioner of Social Minority Department
+                    Commissioner of Minority Department
                   </h4>
                   <p>80a Floor, US Building DX</p>
                   <p>Arrestabad Yereesh Nagarjee 800007</p>

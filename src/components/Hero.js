@@ -31,9 +31,8 @@ const Hero = () => {
             </div>
 
             <p className="mb-6 text-blue-100 text-lg">
-              Social Minority Department, Government of Karnataka provides
-              incentives to Scheduled Caste couples meeting the following
-              criteria:
+              Minority Department, Government of Karnataka provides incentives
+              to Scheduled Caste couples meeting the following criteria:
             </p>
 
             <ul className="space-y-3">

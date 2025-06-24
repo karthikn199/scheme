@@ -6,7 +6,7 @@ const Footer = () => {
       <div className="container mx-auto px-4">
         <div className="text-center">
           <p className="mb-4">
-            © 2016 Social Minority Department, Government of Karnataka.
+            © 2016 Minority Department, Government of Karnataka.
           </p>
           <p className="text-gray-400">
             Design & Development by NIC, Karnataka

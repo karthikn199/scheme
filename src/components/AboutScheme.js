@@ -63,7 +63,7 @@ const AboutScheme = () => {
                 <div className="h-1 w-16 bg-gradient-to-r from-yellow-400 to-amber-500 mb-6 mx-auto lg:mx-0"></div>
 
                 <p className="mb-6 text-lg text-blue-100">
-                  The Government of Karnataka's Social Minority Department has
+                  The Government of Karnataka's Minority Department has
                   introduced this scheme to promote social harmony and reduce
                   caste-based discrimination within Scheduled Caste communities.
                   The initiative provides financial support to eligible couples

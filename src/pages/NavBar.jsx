@@ -84,7 +84,7 @@ const Navbar = () => {
                 </div>
                 <div>
                   <span className="text-xl font-bold text-white tracking-tight">
-                    SOCIAL Minority
+                    Minority
                   </span>
                   <div className="flex items-center">
                     <span className="text-xs font-medium text-gray-400 uppercase tracking-wider">
@@ -187,8 +187,8 @@ const Navbar = () => {
                 Minority Solutions
               </h1>
               <p className="text-xl text-gray-300 mb-10 max-w-2xl">
-                Robust, secure, and efficient management of social Minority
-                programs with industrial-grade reliability and precision.
+                Robust, secure, and efficient management of Minority programs
+                with industrial-grade reliability and precision.
               </p>
 
               <div className="flex flex-wrap gap-4">
